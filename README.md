@@ -1,6 +1,6 @@
 # merge-together
 this
-is
+are
 some
 big
 text
