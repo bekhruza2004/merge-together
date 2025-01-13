@@ -1,5 +1,5 @@
 # merge-together
 this
-is
+are
 some
 text
